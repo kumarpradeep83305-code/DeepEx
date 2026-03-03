@@ -1,0 +1,20 @@
+{
+  "name": "DeepEx",
+  "short_name": "DeepEx",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
